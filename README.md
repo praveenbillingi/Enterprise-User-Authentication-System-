@@ -21,4 +21,4 @@ A beginner-friendly user authentication system built using Python and Flask.
 
 ## Author
 Praveen Kumar Billingi
-CSE (AI & ML) Student
+CSE (AI & ML) Student.
